@@ -7,4 +7,4 @@ React
 Typescript
 
 [https://github.com/dhameliyadharmesh/SayGeGlobal/tree/main
-](https://github.com/dhameliyadharmesh/SayGeGlobal/tree/main)https://github.com/dhameliyadharmesh/SayGeGlobal/tree/main
+](https://github.com/dhameliyadharmesh/SayGeGlobal/tree/main)
