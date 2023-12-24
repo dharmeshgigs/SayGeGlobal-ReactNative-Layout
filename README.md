@@ -1,2 +1,2 @@
 # SayGeGlobal
-Social Media App Design
+Social Media React-Native App Design
