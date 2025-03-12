@@ -2,7 +2,7 @@
 Social Media React-Native App Design
 
 # React-Native Technologies
-Javascript
+Javascript<br/>
 Typescript
 React-Native
 Android
