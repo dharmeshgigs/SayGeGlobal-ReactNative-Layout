@@ -1,7 +1,7 @@
 # SayGeGlobal
 Social Media React-Native App Design
 
-# React-Native Technologies
+# Skills
 Javascript<br/>
 Typescript<br/>
 React-Native<br/>
