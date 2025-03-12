@@ -5,8 +5,8 @@ Social Media React-Native App Design
 Javascript<br/>
 Typescript<br/>
 React-Native<br/>
-Android<br/>
-iOS<br/>
+Android - Phone size<br/>
+iOS - Phone size<br/>
 
 
 # Check Code
