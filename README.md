@@ -3,10 +3,10 @@ Social Media React-Native App Design
 
 # React-Native Technologies
 Javascript<br/>
-Typescript
-React-Native
-Android
-iOS
+Typescript<br/>
+React-Native<br/>
+Android<br/>
+iOS<br/>
 
 
 # Go To Below branch to see code
